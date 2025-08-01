@@ -1,14 +1,8 @@
 # Welcome to Weather Application project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/1c1ab5d9-510b-4fae-a616-f9700428bea0
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/1c1ab5d9-510b-4fae-a616-f9700428bea0) and start prompting.
 
