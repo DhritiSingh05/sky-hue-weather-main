@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to Weather Application project
 
 ## Project info
 
@@ -8,7 +8,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/1c1ab5d9-510b-4fae-a616-f9700428bea0) and start prompting.
 
@@ -64,7 +64,7 @@ This project is built with:
 
 Simply open [Lovable](https://lovable.dev/projects/1c1ab5d9-510b-4fae-a616-f9700428bea0) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my project?
 
 Yes, you can!
 
